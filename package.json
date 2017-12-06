@@ -1,5 +1,5 @@
 {
-  "name": "replace-variables",
+  "name": "object-template-replace",
   "version": "1.0.0",
   "description": "Node module for replacing variables in an object through templating",
   "main": "index.js",
