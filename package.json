@@ -1,0 +1,27 @@
+{
+  "name": "replace-variables",
+  "version": "1.0.0",
+  "description": "Node module for replacing variables in an object through templating",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewgbliss/replace-variables.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewgbliss/replace-variables/issues"
+  },
+  "homepage": "https://github.com/andrewgbliss/replace-variables#readme",
+  "dependencies": {
+    "deep-keys": "^0.5.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
